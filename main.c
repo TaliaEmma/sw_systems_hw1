@@ -18,7 +18,7 @@ int main() {
 	{
 		if(isArmstrong(i)) 
 		{
-			printf("%d " ,i);
+			printf(" %d" ,i);
 		}
 	}
 	printf("\n");
@@ -28,7 +28,7 @@ int main() {
 	{
 		if(isPalindrome(i)) 
 		{
-			printf("%d " ,i);
+			printf(" %d" ,i);
 		}
 	}
 	printf("\n");
@@ -38,7 +38,7 @@ int main() {
 	{
 		if(isPrime(i)) 
 		{	
-			printf("%d " ,i);
+			printf(" %d" ,i);
 		}
 	}
 	printf("\n");
@@ -48,7 +48,7 @@ int main() {
 	{
 		if(isStrong(i))
 		{
-			printf("%d " ,i);
+			printf(" %d" ,i);
 		}
 	}
 	printf("\n");
