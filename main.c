@@ -13,7 +13,7 @@ int main() {
 	printf("Enter Number_2\n");
 	scanf("%d" ,&x2);
 	*/
-	printf("\nThe Armstrong numbers are: ");
+	printf("The Armstrong numbers are: ");
 	for(int i=x1; i<=x2; i++)
 	{
 		if(isArmstrong(i)) 
