@@ -9,9 +9,9 @@ int main() {
 	int x1,x2;
 	
 	//printf("Enter Number_1\n");
-	scanf("%d" ,&x1);
+	scanf("%d %d" ,&x1,&x2);
 	//printf("Enter Number_2\n");
-	scanf("%d" ,&x2);
+	//scanf("%d" ,&x2);
 	
 	printf("The Armstrong numbers are: ");
 	for(int i=x1; i<=x2; i++)
